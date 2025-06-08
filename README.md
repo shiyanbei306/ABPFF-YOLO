@@ -1,7 +1,7 @@
 
 ## <div align="center">Documentation</div>
 
-See below for a quickstart installation and usage example, and see the [YOLOv8 Docs](https://docs.ultralytics.com) for full documentation on training, validation, prediction and deployment.
+Welcome to the ABPFF-YOLO repository! This project implements the ABPFF-YOLO algorithm, a novel method based on YOLOv8s designed for detecting small objects in UAV (Unmanned Aerial Vehicle) images. The algorithm integrates an auxiliary backbone and a multi-branch feature fusion module to enhance small object detection performance.and see the [ABPFF-YOLO Docs](https://docs.ultralytics.com) for full documentation on training, validation, prediction and deployment.
 
 <details open>
 <summary>Install</summary>
