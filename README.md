@@ -19,7 +19,7 @@ pip install ultralytics
 
 #### CLI
 
-YOLOv8 may be used directly in the Command Line Interface (CLI) with a `yolo` command:
+ABPFF-YOLO may be used directly in the Command Line Interface (CLI) with a `yolo` command:
 
 ```bash
 yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg'
